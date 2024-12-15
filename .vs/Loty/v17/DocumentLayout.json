@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dysk_d\\wywal\\Loty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64345272-3081-45B5-91DD-6B595F73559C}|LotyTesty\\LotyTesty.csproj|c:\\dysk_d\\wywal\\loty\\lotytesty\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64345272-3081-45B5-91DD-6B595F73559C}|LotyTesty\\LotyTesty.csproj|solutionrelative:lotytesty\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|C:\\dysk_d\\wywal\\Loty\\loty\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|solutionrelative:loty\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|C:\\dysk_d\\wywal\\Loty\\loty\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|solutionrelative:loty\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|C:\\dysk_d\\wywal\\Loty\\loty\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|solutionrelative:loty\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|C:\\dysk_d\\wywal\\Loty\\loty\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|solutionrelative:loty\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|C:\\dysk_d\\wywal\\Loty\\loty\\tenantgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|solutionrelative:loty\\tenantgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|C:\\dysk_d\\wywal\\Loty\\loty\\flightprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|solutionrelative:loty\\flightprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|C:\\dysk_d\\wywal\\Loty\\loty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5327A4-6467-444F-BB3B-F870CBFFD61F}|Loty\\Loty.csproj|solutionrelative:loty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\dysk_d\\wywal\\Loty\\LotyTesty\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LotyTesty\\UnitTest1.cs",
+              "ToolTip": "C:\\dysk_d\\wywal\\Loty\\LotyTesty\\UnitTest1.cs*",
+              "RelativeToolTip": "LotyTesty\\UnitTest1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:02:31.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "C:\\dysk_d\\wywal\\Loty\\Loty\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "Loty\\PurchaseService.cs",
+              "ToolTip": "C:\\dysk_d\\wywal\\Loty\\Loty\\PurchaseService.cs",
+              "RelativeToolTip": "Loty\\PurchaseService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAjwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:14:30.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\dysk_d\\wywal\\Loty\\Loty\\Person.cs",
+              "RelativeDocumentMoniker": "Loty\\Person.cs",
+              "ToolTip": "C:\\dysk_d\\wywal\\Loty\\Loty\\Person.cs",
+              "RelativeToolTip": "Loty\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:31:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightPrice.cs",
+              "DocumentMoniker": "C:\\dysk_d\\wywal\\Loty\\Loty\\FlightPrice.cs",
+              "RelativeDocumentMoniker": "Loty\\FlightPrice.cs",
+              "ToolTip": "C:\\dysk_d\\wywal\\Loty\\Loty\\FlightPrice.cs",
+              "RelativeToolTip": "Loty\\FlightPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:25:28.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\dysk_d\\wywal\\Loty\\Loty\\Flight.cs",
+              "RelativeDocumentMoniker": "Loty\\Flight.cs",
+              "ToolTip": "C:\\dysk_d\\wywal\\Loty\\Loty\\Flight.cs",
+              "RelativeToolTip": "Loty\\Flight.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:38:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\dysk_d\\wywal\\Loty\\Loty\\Tenant.cs",
+              "RelativeDocumentMoniker": "Loty\\Tenant.cs",
+              "ToolTip": "C:\\dysk_d\\wywal\\Loty\\Loty\\Tenant.cs",
+              "RelativeToolTip": "Loty\\Tenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:50:03.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TenantGroup.cs",
+              "DocumentMoniker": "C:\\dysk_d\\wywal\\Loty\\Loty\\TenantGroup.cs",
+              "RelativeDocumentMoniker": "Loty\\TenantGroup.cs",
+              "ToolTip": "C:\\dysk_d\\wywal\\Loty\\Loty\\TenantGroup.cs",
+              "RelativeToolTip": "Loty\\TenantGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:47:59.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dysk_d\\wywal\\Loty\\Loty\\Program.cs",
+              "RelativeDocumentMoniker": "Loty\\Program.cs",
+              "ToolTip": "C:\\dysk_d\\wywal\\Loty\\Loty\\Program.cs",
+              "RelativeToolTip": "Loty\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:54:22.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

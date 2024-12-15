@@ -1,0 +1,14 @@
+C:\dyskD\mojeProj\Loty\Loty\bin\Debug\Loty.exe.config
+C:\dyskD\mojeProj\Loty\Loty\bin\Debug\Loty.exe
+C:\dyskD\mojeProj\Loty\Loty\bin\Debug\Loty.pdb
+C:\dyskD\mojeProj\Loty\Loty\obj\Debug\Loty.csproj.AssemblyReference.cache
+C:\dyskD\mojeProj\Loty\Loty\obj\Debug\Loty.csproj.CoreCompileInputs.cache
+C:\dyskD\mojeProj\Loty\Loty\obj\Debug\Loty.exe
+C:\dyskD\mojeProj\Loty\Loty\obj\Debug\Loty.pdb
+C:\dysk_d\wywal\Loty\Loty\bin\Debug\Loty.exe.config
+C:\dysk_d\wywal\Loty\Loty\bin\Debug\Loty.exe
+C:\dysk_d\wywal\Loty\Loty\bin\Debug\Loty.pdb
+C:\dysk_d\wywal\Loty\Loty\obj\Debug\Loty.csproj.AssemblyReference.cache
+C:\dysk_d\wywal\Loty\Loty\obj\Debug\Loty.csproj.CoreCompileInputs.cache
+C:\dysk_d\wywal\Loty\Loty\obj\Debug\Loty.exe
+C:\dysk_d\wywal\Loty\Loty\obj\Debug\Loty.pdb
